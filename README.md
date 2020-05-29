@@ -3,10 +3,11 @@
 r710
   Vmware - Esxi 6.5 
   
-      VM0 - Yggdrasil
+      VM0 - Hiemdall
             Linux Ubuntu Server 18.04LTS
               Docker
               PiHole - DNS Black Hole (network wide add block)
+              OpenVPN server
                 
         VM1 - Odin
               Linux Ubuntu Server 18.04LTS
@@ -21,8 +22,8 @@ r710
                   sonarr
                   radarr
         VM2 - Bender
-              Windows 10 
-                General Microsoft test platform
+              Windows Server 2016
+                General Microsoft server test platform
          
         VM3 - Krieger
               Linux Ubuntu 18.04 desktop
