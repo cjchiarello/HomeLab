@@ -29,5 +29,7 @@ r710
               Linux Ubuntu 18.04 desktop
                 General Linux test platform
               
-                
+        VM4 - RHEL  
+              Linux CentOS 8.1
+                Redhat linux test platform
                 
