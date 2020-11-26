@@ -1,7 +1,7 @@
 #HomeLab est. may 2019
 
-r710
-  Vmware - Esxi 6.5 
+r720
+  Vmware - Esxi 7 
   
       VM0 - Hiemdall
             Linux Ubuntu Server 18.04LTS
@@ -9,7 +9,7 @@ r710
               PiHole - DNS Black Hole (network wide add block)
               OpenVPN server
                 
-        VM1 - Odin
+        VM1 - Odin v2
               Linux Ubuntu Server 18.04LTS
                Running
                  Plex
@@ -21,15 +21,23 @@ r710
                   jackett
                   sonarr
                   radarr
-        VM2 - Bender
+        VM2 - Thor
               Windows Server 2016
                 General Microsoft server test platform
          
-        VM3 - Krieger
+        VM3 - SARL
               Linux Ubuntu 18.04 desktop
                 General Linux test platform
               
-        VM4 - RHEL  
+        VM4 - SOC  
               Linux CentOS 8.1
-                Redhat linux test platform
+                Security Onion w/IDS & IPS
+        
+        VM5 - Kenny
+              Windows 10 64bit
+                windows test platform (to be killed are redeployed regularly)
+        
+        VM6 - Yoda
+              Kali box
+                
                 
